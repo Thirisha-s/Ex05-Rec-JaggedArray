@@ -1,29 +1,29 @@
-Ex05-Rec-JaggedArray
-Aim:
+## Ex05-Rec-JaggedArray
+## Aim:
 To write a C# program to create a sample CPU usage on a network with 4 nodes using a jagged array.
 
-Algorithm:
-Step1:
+## Algorithm:
+## Step1:
 Create a new Class named cpu.
 
-Step 2:
+## Step 2:
 Create a jagged array of 4 arrays.
 
 int[][] array = new int[][];
 
-Step 3:
+## Step 3:
 Create as many sub-nodes as you wish inside one node of jagged array.
 
-Step 4:
+## Step 4:
 Give the sample CPU usage in the jagged array.
 
-Step 5:
+## Step 5:
 Print the sample CPU usage in the jagged array.
 
-Step 6:
+## Step 6:
 End the Program.
 
-Program:
+## Program:
 Developed by : S .THIRISHA
 
 Register number : 212222230160
@@ -78,10 +78,8 @@ class jaggedarray
     }
 }
 ## OUTPUT:
-![Screenshot (33)](https://github.com/Thirisha-s/Ex05-Rec-JaggedArray/assets/120380280/a1f0ef36-e242-4cc3-a36f-8e88ebcd7086)
+![Screenshot (34)](https://github.com/Thirisha-s/Ex05-Rec-JaggedArray/assets/120380280/9298721f-cb27-489c-b1c0-806339260b1e)
 
 ## Result:
 C# program to create a sample CPU usage on a network with 4 nodes using a jagged array is executed successfully.
-
-
 
