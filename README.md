@@ -1,4 +1,5 @@
 ## Ex05-Rec-JaggedArray
+
 ## Aim:
 To write a C# program to create a sample CPU usage on a network with 4 nodes using a jagged array.
 
@@ -28,6 +29,7 @@ Developed by : S .THIRISHA
 
 Register number : 212222230160
 
+```
 using System;
 
 class jaggedarray
@@ -77,6 +79,7 @@ class jaggedarray
         }
     }
 }
+```
 
 ## OUTPUT:
 ![Screenshot (34)](https://github.com/Thirisha-s/Ex05-Rec-JaggedArray/assets/120380280/9298721f-cb27-489c-b1c0-806339260b1e)
